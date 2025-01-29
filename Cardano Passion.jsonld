@@ -51,15 +51,19 @@
       }
     }
   },
-  "hashAlgorithm": "CIP100:blake2b-256",
+  "hashAlgorithm": "blake2b-256",
   "body": {
     "givenName": "Cardano Passion Switzerland",
     "motivations": "I am highly passionate about Cardano and want to move the project forward.",
     "objectives": "I want to move Cardano forward. I am a student from Switzerland. My long term goal is to create my own stakepool and to create a project on Midnight. ",
     "paymentAddress": "addr1q8jqrwpqvke66stntcdwp93wt9ztwgnlc2dwhrhnjkpjp9nh5s4mn0m8fsf339y7ltd28ufs9djnsfh83p9e7t62d08s64jv29",
     "qualifications": "University Bern Medical School\nETH Z Food Science and Nutrition",
-    "doNotList": false,
-    "references": []
-  },
-  "authors": []
+    "references": [
+      {
+        "@type": "Link",
+        "label": "Instagram",
+        "uri": "https://www.instagram.com/pascalwerlen/?hl=de"
+      }
+    ]
+  }
 }
